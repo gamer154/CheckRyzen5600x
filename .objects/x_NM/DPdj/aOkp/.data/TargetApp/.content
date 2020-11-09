@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Edge" ContentHash="SkBtM8HOWUCI8F3B2crg7A" Selector="&lt;html app='msedge.exe' title='AMD Ryzen 5 5600X 3.7 GHz Socket AM4 100-100000065BOX Desktop Processor - Newegg.ca'/&gt;" Url="https://www.newegg.ca/amd-ryzen-5-5600x/p/N82E16819113666" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0B7ynnNRuCEysKKvlGTzU0Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e6d85c7d86959db865181f7b97d314e4.png" xmlns="">0cTN2xsr4vkCXAoQ1jdXSQg</imageRef>
+</TargetApp>

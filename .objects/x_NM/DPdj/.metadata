@@ -1,0 +1,12 @@
+﻿{
+  "Id": "DPdjQoy-2U26DlcVs4294w",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/DPdjQoy-2U26DlcVs4294w",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/x_NMxvey7UuhVp6vq3kkbg",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2020-11-09T18:09:34.137291Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T18:09:34.137291Z"
+}

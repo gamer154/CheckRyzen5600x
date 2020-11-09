@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Edge" ContentHash="HscOTlKPM0WkZ7cDZn_jtw" Selector="&lt;html app='msedge.exe' htmlwindowname='https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,41-crZfIjzL.css,31YgkTd4i4L.css,017DsKjNQJL.css,013z33uKh2L.css,01HEsUOLYvL.css,41EWOOlBJ9L.css,11PIM2x8KnL.css,01ElnPiDxWL.css,11QxHU4QYaL.css,01Sp8sB1HiL.css,01IdKcBuAdL.c*' title='Amazon.com: AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler: Computers &amp;amp; Accessories'/&gt;" Url="https://www.amazon.com/dp/B08166SLDF/ref=olp_product_details/138-4814762-7268017?_encoding=UTF8&amp;me=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0RlAGuHYMdE2QcdhUUIzLiA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5073d3069701f6b60af6624aa30ebac1.png" xmlns="">0YZQNmTnlEkGWH3zVYLS5zg</imageRef>
+</TargetApp>

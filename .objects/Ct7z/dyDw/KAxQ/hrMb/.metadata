@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hrMbxjgMnECeUWg7Xuk3Cg",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/hrMbxjgMnECeUWg7Xuk3Cg",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/KAxQ49tL0EGvHX6VdMFYGw",
+  "Name": "Sold Out",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-11-09T18:33:53.6582656Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T19:29:25.9772939Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

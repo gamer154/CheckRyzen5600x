@@ -1,0 +1,11 @@
+﻿{
+  "Id": "49IL2A2UT0eKrXLVvKew5A",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/49IL2A2UT0eKrXLVvKew5A",
+  "Name": "AmazonRyzen5600xPage",
+  "Type": "App",
+  "Created": "2020-11-09T17:33:20.5565759Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T17:33:20.5565759Z"
+}

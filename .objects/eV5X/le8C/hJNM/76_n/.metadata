@@ -1,0 +1,16 @@
+﻿{
+  "Id": "76_nFWFtbEadDtyE0rCA6A",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/76_nFWFtbEadDtyE0rCA6A",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/hJNMTYvEpEOcRf6D_REQBw",
+  "Name": "Locate In Store",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-11-09T20:21:59.7516697Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T20:58:08.3592834Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

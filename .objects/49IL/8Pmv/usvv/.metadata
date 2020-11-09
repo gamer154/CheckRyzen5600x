@@ -1,0 +1,14 @@
+﻿{
+  "Id": "usvve2DFk0uuaOOapcXKcw",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/usvve2DFk0uuaOOapcXKcw",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/8Pmv8xtO_EWgIyO_rl04NA",
+  "Name": "Use Browser Edge Amazon.com AMD Ryzen 5 5600X 6-c",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2020-11-09T17:33:23.4937528Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T17:33:23.4937528Z"
+}

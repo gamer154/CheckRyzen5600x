@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.microcenter.com/product/630285/amd-ryzen-5-5600x-vermeer-37ghz-6-core-am4-boxed-processor-with-wraith-stealth-cooler?storeid=131" ContentHash="-sJrrER23ESXBLFrRGz5ng" DesignTimeRectangle="1290, 486, 250, 43" ElementType="Button" FriendlyName="'Locate In Store'" FullSelectorArgument="&lt;webctrl name='*' parentid='options-button' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl name='findit' parentid='options-button' tag='INPUT' type='submit' aaname='Locate In Store' check:text='Locate In Store' /&gt;" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='*' title='*Micro Center' /&gt;" SearchSteps="Selector" Text="Locate In Store" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='INPUT' type='submit' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0UcJNYhbOqEq47WtIDlyIbw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9f60b4add2b0eb30cc0609dcbf112612.png" xmlns="">01Bzoq5NzS0SNSb8TJaOS0Q</imageRef>
+</TargetAnchorable>

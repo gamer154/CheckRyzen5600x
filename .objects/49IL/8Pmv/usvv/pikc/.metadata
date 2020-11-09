@@ -1,0 +1,17 @@
+﻿{
+  "Id": "pikcqkEv5E6ROuKMpwiMng",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/pikcqkEv5E6ROuKMpwiMng",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/usvve2DFk0uuaOOapcXKcw",
+  "Name": "Click",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-11-09T17:33:34.6903741Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T20:01:38.4585058Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

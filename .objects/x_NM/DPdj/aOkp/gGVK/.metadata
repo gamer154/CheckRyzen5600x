@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gGVKUGGG40ieCka5UqLp2Q",
+  "Reference": "kR94HQNhY0-1O41oCEYpxA/gGVKUGGG40ieCka5UqLp2Q",
+  "ParentRef": "kR94HQNhY0-1O41oCEYpxA/aOkpKVLyxUOaOtxRuFDkRg",
+  "Name": "OUT OF STOCK.",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-11-09T18:09:34.2528522Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-11-09T18:30:20.4869276Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Edge" ContentHash="qCJm3z3yCkWz-KiXeUJNyA" Selector="&lt;html app='msedge.exe' htmlwindowname='z' title='AMD Ryzen 5 5600X Vermeer 3.7GHz 6-Core AM4 Boxed Processor with Wraith Stealth Cooler - Micro Center'/&gt;" Url="https://www.microcenter.com/product/630285/amd-ryzen-5-5600x-vermeer-37ghz-6-core-am4-boxed-processor-with-wraith-stealth-cooler?storeid=131" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0t7u45elOU06yFvuW-Ff46w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2859c6186ee02c83609ee95f722a4754.png" xmlns="">0hK_dgjGmYUO2Wcvw90UjUg</imageRef>
+</TargetApp>

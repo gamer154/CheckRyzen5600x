@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Edge" ContentHash="LEMW91Zr5kCfrfWRkgcOqA" Selector="&lt;html app='msedge.exe' title='AMD Ryzen 5 5600X 4th Gen 6-core, 12-threads Unlocked Desktop Processor With Wraith Stealth Cooler 100-100000065BOX - Best Buy'/&gt;" Url="https://www.bestbuy.com/site/amd-ryzen-5-5600x-4th-gen-6-core-12-threads-unlocked-desktop-processor-with-wraith-stealth-cooler/6438943.p?skuId=6438943&amp;irclickid=wb6QPxXXZxyOWNO0MKVSfWfHUkE2MGV2WQ-N3A0&amp;irgwc=1&amp;ref=198&amp;loc=Vox+Media&amp;acampID=0&amp;mpid=482924&amp;nrtv_cid=6491b7285ce60bce02ebceb5834a88988b1fae2ebac69cdc97a4f2c8a986058f&amp;subId2=verge&amp;subId3=1723297729517571817&amp;subId1=" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0zgjcOuFM2kWXGQz01ZmQCA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6f868e4b879d79a7ecba5e4af95e1cc3.png" xmlns="">0WWhtMEESNEeRlHLi_EGFlw</imageRef>
+</TargetApp>
