@@ -88,7 +88,7 @@
         <Variable x:TypeArguments="x:String" Name="strAvail" />
         <Variable x:TypeArguments="x:String" Name="strLocation">
           <Variable.Default>
-            <Literal x:TypeArguments="x:String">Newegg</Literal>
+            <Literal x:TypeArguments="x:String">Newegg. Link: https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Description=ryzen%205600x&amp;cm_re=ryzen_5600x-_-19-113-666-_-Product</Literal>
           </Variable.Default>
         </Variable>
       </Flowchart.Variables>
@@ -101,9 +101,9 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <Flowchart.StartNode>
-        <x:Reference>__ReferenceID4</x:Reference>
+        <x:Reference>__ReferenceID6</x:Reference>
       </Flowchart.StartNode>
-      <FlowStep x:Name="__ReferenceID4">
+      <FlowStep x:Name="__ReferenceID6">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <av:Point x:Key="ShapeLocation">200,127</av:Point>
@@ -118,15 +118,15 @@
               <x:Boolean x:Key="IsPinned">False</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application/Browser" sap:VirtualizedContainerService.HintSize="550,1172" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" Version="V1">
+          <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application/Browser" sap:VirtualizedContainerService.HintSize="550,1073" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" Version="V1">
             <uix:NApplicationCard.Body>
               <ActivityAction x:TypeArguments="x:Object">
                 <ActivityAction.Argument>
                   <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                 </ActivityAction.Argument>
-                <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="438,308" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+                <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="516,857" sap2010:WorkflowViewState.IdRef="TryCatch_1">
                   <TryCatch.Try>
-                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="478,627" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="478,630" sap2010:WorkflowViewState.IdRef="Sequence_2">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -152,7 +152,7 @@
                           </Sequence>
                         </ui:CommentOut.Body>
                       </ui:CommentOut>
-                      <Assign sap:VirtualizedContainerService.HintSize="436,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+                      <Assign sap:VirtualizedContainerService.HintSize="436,61" sap2010:WorkflowViewState.IdRef="Assign_1">
                         <Assign.To>
                           <OutArgument x:TypeArguments="x:String">[strAvail]</OutArgument>
                         </Assign.To>
@@ -163,7 +163,7 @@
                     </Sequence>
                   </TryCatch.Try>
                   <TryCatch.Catches>
-                    <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="404,21" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+                    <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="482,21" sap2010:WorkflowViewState.IdRef="Catch`1_1">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -185,7 +185,7 @@
               </ActivityAction>
             </uix:NApplicationCard.Body>
             <uix:NApplicationCard.TargetApp>
-              <uix:TargetApp BrowserType="Edge" ContentHash="SkBtM8HOWUCI8F3B2crg7A" IconBase64="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" InformativeScreenshot="e6d85c7d86959db865181f7b97d314e4.png" Reference="kR94HQNhY0-1O41oCEYpxA/aOkpKVLyxUOaOtxRuFDkRg" Selector="&lt;html app='msedge.exe' title='AMD Ryzen 5 5600X 3.7 GHz Socket AM4 100-100000065BOX Desktop Processor - Newegg.ca'/&gt;" Url="https://www.newegg.ca/amd-ryzen-5-5600x/p/N82E16819113666" />
+              <uix:TargetApp BrowserType="Edge" ContentHash="AZzZsZxzI0yxAAgGEhpPDQ" IconBase64="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" InformativeScreenshot="c38d44101806ea3e8bd5cc554d520645.png" Reference="kR94HQNhY0-1O41oCEYpxA/aOkpKVLyxUOaOtxRuFDkRg" Selector="&lt;html app='msedge.exe' title='AMD Ryzen 5 5600X 3.7 GHz Socket AM4 100-100000065BOX Desktop Processor - Newegg.com'/&gt;" Url="https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Description=ryzen%205600x&amp;cm_re=ryzen_5600x-_-19-113-666-_-Product" />
             </uix:NApplicationCard.TargetApp>
           </uix:NApplicationCard>
         </Sequence>
@@ -206,6 +206,7 @@
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <av:Point x:Key="ShapeLocation">10.6416666666667,260.52</av:Point>
                     <av:Size x:Key="ShapeSize">200,51</av:Size>
+                    <av:PointCollection x:Key="ConnectorLocation">110.641666666667,311.52 110.641666666667,361.52</av:PointCollection>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <ui:AppendLine DisplayName="If CPU is not available" FileName="Logs\CheckNewegg.txt" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[strAvail]" UseDefaultEncoding="False">
@@ -215,6 +216,23 @@
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
                 </ui:AppendLine>
+                <FlowStep.Next>
+                  <FlowStep x:Name="__ReferenceID4">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <av:Point x:Key="ShapeLocation">10.6416666666667,361.52</av:Point>
+                        <av:Size x:Key="ShapeSize">200,51</av:Size>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;CPU is not available at Newegg. StrAvail: &quot;+ strAvail]">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                    </ui:LogMessage>
+                  </FlowStep>
+                </FlowStep.Next>
               </FlowStep>
             </FlowDecision.True>
             <FlowDecision.False>
@@ -239,6 +257,7 @@
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <av:Point x:Key="ShapeLocation">389.641666666667,361.52</av:Point>
                         <av:Size x:Key="ShapeSize">200,51</av:Size>
+                        <av:PointCollection x:Key="ConnectorLocation">489.641666666667,412.52 489.641666666667,462.52</av:PointCollection>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
                     <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke AvailableNotification workflow" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Sequence\AvailableNotification.xaml">
@@ -251,6 +270,23 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:InvokeWorkflowFile>
+                    <FlowStep.Next>
+                      <FlowStep x:Name="__ReferenceID5">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <av:Point x:Key="ShapeLocation">389.641666666667,462.52</av:Point>
+                            <av:Size x:Key="ShapeSize">200,51</av:Size>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;CPU is available at Newegg. StrAvail: &quot;+ strAvail]">
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                        </ui:LogMessage>
+                      </FlowStep>
+                    </FlowStep.Next>
                   </FlowStep>
                 </FlowStep.Next>
               </FlowStep>
@@ -262,6 +298,8 @@
       <x:Reference>__ReferenceID1</x:Reference>
       <x:Reference>__ReferenceID2</x:Reference>
       <x:Reference>__ReferenceID3</x:Reference>
+      <x:Reference>__ReferenceID4</x:Reference>
+      <x:Reference>__ReferenceID5</x:Reference>
     </Flowchart>
   </Sequence>
 </Activity>
